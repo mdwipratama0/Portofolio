@@ -4,7 +4,7 @@ Visualizing data on New Positive Cases of Covid-19 in Indonesia. Covid-19 is a p
 
 Tools: Tableau
 
-<img src="/repository/Dashboard%20Covid-19%20di%20Indonesia/Dashboard%20Covid-19.png" alt="Dashboard Covid-19" title="Dashboard Covid-19 di Indonesia">
+![Dashboard Covid-19](http:https://i.ibb.co/R68HMq3/Dashboard-Covid-19.png "Dashboard Covid-19 di Indonesia")
 
 ## Dashboard to Tableau
 [![Dashboard to Tableau](https://public.tableau.com/app/assets/tableau-public-logo-rgb.07774149.svg)](https://public.tableau.com/app/profile/ropiudin/viz/Milestones_16668589373690/Dashboard1)
