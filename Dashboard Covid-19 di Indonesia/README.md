@@ -6,7 +6,7 @@ Tools: Tableau
 
 ![Dashboard Covid-19](https://i.ibb.co/R68HMq3/Dashboard-Covid-19.png "Dashboard Covid-19 di Indonesia")
 
-## Dashboard to Tableau
+## Dashboard in Tableau
 [More about dashboard click here.](https://public.tableau.com/app/profile/m.dwi.pratama4211/viz/DashboardKasusBaruPositifCovid-19diIndonesia/Dashboard2)
 
 [![Dashboard to Tableau](https://public.tableau.com/app/assets/tableau-public-logo-rgb.07774149.svg)](https://public.tableau.com/app/profile/m.dwi.pratama4211/viz/DashboardKasusBaruPositifCovid-19diIndonesia/Dashboard2)
