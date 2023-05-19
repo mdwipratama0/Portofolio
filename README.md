@@ -1,6 +1,6 @@
 # Portofolio
 -----
-Nama : M. Dwi Pratama
+Name : M. Dwi Pratama
 ## Skill Based Project
 ---
 ### Data Visualization
