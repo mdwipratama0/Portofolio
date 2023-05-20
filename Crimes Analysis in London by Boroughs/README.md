@@ -3,8 +3,8 @@
 The topic of this analysis is crime cases that occurred in London from 2008-2016. Crime is an act that harms many people such as theft, robbery, fraud and forgery, etc. To be able to deal with and reduce crime cases that occur in an area, it is necessary to conduct an analysis to make a policy. To be able to handle and reduce crime cases that occur in an area, it is necessary to conduct an analysis to make a policy. Therefore, this analysis is carried out with the aim of helping policy makers or security forces to make the best decision.
 
 To answer the problem description of this analysis :
-* In which year did the most total crimes occur in the London Crimes by Boroughs data?__
-* What is the total number of crimes that occurred in London boroughs by year?__
+* In which year did the most total crimes occur in the London Crimes by Boroughs data?
+* What is the total number of crimes that occurred in London boroughs by year?
 * Which borough has the highest total number of crimes, making it an unsafe borough from the London Crimes by Boroughs data?
 * Order the list of boroughs with the highest crime totals from largest to smallest!
 * What was the most common crime from 2008-2016 in the London boroughs?
