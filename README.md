@@ -12,7 +12,7 @@ Name : M. Dwi Pratama
 * __[Crimes Analysis in London by Boroughs](https://nbviewer.org/github/mdwipratama0/Portofolio/blob/main/Crimes%20Analysis%20in%20London%20by%20Boroughs/Crimes%20Analysis%20in%20London%20by%20Boroughs.ipynb)__ : Utilize python to perform analysis and visualization on crime data that occurred in London from 2008-2016.
 ---
 ### Certificate
-* __[Google Data Analytics Professional Certificate](https://drive.google.com/file/d/18PqP6gK_xhSE6Az6thhMdjUJ9VksCGP8/view)__
+* __[Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/Z9VJHS5N9FBJ)__
 * __[Alibaba Cloud - Machine Learning Specialty](https://drive.google.com/file/d/1-Qka-K7SDa6Uj-7qVyH83hbKZ7v09lRR/view)__
 * __[Alibaba Cloud - Data Visualization with Python](https://drive.google.com/file/d/1qrBFFXewfywDEy4ams1lKQk7Bn1uX6cv/view)__
 * __[Hacker Rank - SQL (Intermediate)](https://www.hackerrank.com/certificates/e04ed1b87c46)__
