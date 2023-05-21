@@ -4,6 +4,7 @@ Name : M. Dwi Pratama
 ## Skill Based Project
 ### Machine Learning 
 * __[Predicting Uber & Lyft Ride Price in Boston, MA](https://github.com/mdwipratama0/Portofolio/blob/main/Predicting%20Uber%20%26%20Lyft%20Ride%20Price%20in%20Boston%2C%20MA/Predicting%20Uber%20%26%20Lyft%20Ride%20Price%20in%20Boston%2C%20MA.ipynb)__ : Utilize python to implement regression to predict trip prices for Uber & Lyft transportation in Boston, MA.
+* __[Classification of Rainfall Event in Australia](https://github.com/mdwipratama0/Portofolio/blob/main/Classification%20of%20Rainfall%20Event%20in%20Australia/Classification%20of%20Rainfall%20Event%20in%20Australia.ipynb)__ : Utilize Python to develop supervised machine learning techniques to classify Rainfall Event data in Australia, to predict the occurrence of rain.
 ---
 ### Statistical Analysis
 * __[Statistical Analysis for New York Property Sales](https://github.com/mdwipratama0/Portofolio/blob/main/Statistical%20Treatment%20for%20Retail%20Data/Statistical%20Treatment%20for%20Retail%20Data.ipynb)__ : Utilize python to implement statistical methods to thoroughly analyze property sales in New York City. 
