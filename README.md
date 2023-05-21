@@ -3,10 +3,10 @@
 Name : M. Dwi Pratama
 ## Skill Based Project
 ### Machine Learning 
-* __[Predicting Uber & Lyft Ride Price in Boston, MA](
+* __[Predicting Uber & Lyft Ride Price in Boston, MA](https://github.com/mdwipratama0/Portofolio/blob/main/Predicting%20Uber%20%26%20Lyft%20Ride%20Price%20in%20Boston%2C%20MA/Predicting%20Uber%20%26%20Lyft%20Ride%20Price%20in%20Boston%2C%20MA.ipynb)__ : Utilize python to implement regression to predict trip prices for Uber & Lyft transportation in Boston, MA.
 ---
 ### Statistical Analysis
-* __[Statistical Analysis for New York Property Sales](https://github.com/mdwipratama0/Portofolio/blob/main/Predicting%20Uber%20%26%20Lyft%20Ride%20Price%20in%20Boston%2C%20MA/Predicting%20Uber%20%26%20Lyft%20Ride%20Price%20in%20Boston%2C%20MA.ipynb)__ : Utilize python to implement regression to predict trip prices for Uber & Lyft transportation in Boston, MA.
+* __[Statistical Analysis for New York Property Sales](https://github.com/mdwipratama0/Portofolio/blob/main/Statistical%20Treatment%20for%20Retail%20Data/Statistical%20Treatment%20for%20Retail%20Data.ipynb)__ : Utilize python to implement statistical methods to thoroughly analyze property sales in New York City. 
 ---
 ### Data Visualization
 * __[Dashboard Kasus Baru Positif Covid-19 di Indonesia](https://github.com/mdwipratama0/Portofolio/tree/main/Dashboard%20Covid-19%20di%20Indonesia)__ : Visualize with Tableau the data of new positive cases of covid-19 by using tableau to know the data in real-time
