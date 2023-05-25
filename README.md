@@ -12,7 +12,7 @@ Name : M. Dwi Pratama
 ### Data Visualization
 * __[Dashboard Kasus Baru Positif Covid-19 di Indonesia](https://github.com/mdwipratama0/Portofolio/tree/main/Dashboard%20Covid-19%20di%20Indonesia)__ : Visualize with Tableau the data of new positive cases of covid-19 by using tableau to know the data in real-time
 * __[Crimes Analysis in London by Boroughs](https://nbviewer.org/github/mdwipratama0/Portofolio/blob/main/Crimes%20Analysis%20in%20London%20by%20Boroughs/Crimes%20Analysis%20in%20London%20by%20Boroughs.ipynb)__ : Utilize python to perform analysis and visualization on crime data that occurred in London from 2008-2016.
-* * __[International Immigration Flows from and to Canada](https://nbviewer.org/github/mdwipratama0/Portofolio/blob/main/International%20Immigration%20Flows%20from%20and%20to%20Canada/International%20Migration%20Flows%20from%20and%20to%20Canada.ipynb)__ : Utilize python to perform analysis and visualization on immigration flows data that occurred in Canada.
+* __[International Immigration Flows from and to Canada](https://nbviewer.org/github/mdwipratama0/Portofolio/blob/main/International%20Immigration%20Flows%20from%20and%20to%20Canada/International%20Migration%20Flows%20from%20and%20to%20Canada.ipynb)__ : Utilize python to perform analysis and visualization on immigration flows data that occurred in Canada.
 ---
 ### Certificates
 * __[Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/Z9VJHS5N9FBJ)__
