@@ -2,7 +2,7 @@
 -----
 Name               : M. Dwi Pratama
 
-Current Domicile   : Lampung, Indonesia
+Current Domicile   : Lampung, Indonesia.
 
 University & Department : Lampung of University - Mathematics
 ## Skill Based Project
