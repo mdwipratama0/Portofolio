@@ -1,7 +1,7 @@
-# Portofolio
+# Credit Card Clustering for Marketing Strategy
 -----
-## Skill Based Project
----
-### Data Visualization
-* __[Dashboard Kasus Baru Positif Covid-19 di Indonesia](https://github.com/mdwipratama0/Portofolio/tree/main/Dashboard%20Covid-19%20di%20Indonesia)__
+Credit cards have become one of the most popular and commonly used means of payment worldwide. The use of credit cards plays an important role in the daily lives of modern people, both in online and offline transactions. One of the benefits of using a credit card is its ease and convenience. Credit cards allow users to make purchases easily without having to carry cash. By simply using a credit card, users can make transactions in various places such as retail stores, restaurants, hotels, and even online. This practicality makes credit cards a popular choice for many consumers. In addition to convenience, the use of credit cards also provides additional benefits such as consumer protection.
 
+Credit cards can influence purchasing decisions, spending patterns, and the tendency to accumulate debt. Therefore, it is quite important to know the behavior of credit card usage for marketing needs. Therefore, an analysis will be conducted in the form of clustering to group credit card customers into several groups according to customer behavior to obtain an effective and efficient credit card marketing strategy. 
+
+Using this data, a clustering model will be built where feature data and label data (target variables) are used to train a model for clustering credit card customers into groups according to customer behavior to get an effective and efficient credit card marketing strategy.
