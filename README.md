@@ -24,6 +24,8 @@ University & Department : Lampung of University - Mathematics
 * __[Google Business Intelligence Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/8QG3VTBSJ8KK)__
 * __[Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/Z9VJHS5N9FBJ)__
 * __[Alibaba Cloud - Machine Learning Specialty](https://drive.google.com/file/d/1-Qka-K7SDa6Uj-7qVyH83hbKZ7v09lRR/view)__
+* __[Hacktiv8 X Kampus Merdeka - Python for Data Science](https://drive.google.com/drive/folders/19o0fDtHqT9nP5d1sRsIKnD8qgHq-CYUl)__
 * __[Alibaba Cloud - Data Visualization with Python](https://drive.google.com/file/d/1qrBFFXewfywDEy4ams1lKQk7Bn1uX6cv/view)__
 * __[Hacker Rank - SQL (Intermediate)](https://www.hackerrank.com/certificates/e04ed1b87c46)__
 * __[Udemy - Learn Machine Learning with Python](https://www.udemy.com/certificate/UC-866158a2-f4d3-4ca9-8655-a0d96909a7b6/)__
+  
