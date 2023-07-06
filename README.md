@@ -8,7 +8,7 @@ University & Department : Lampung of University - Mathematics
 ## Skill Based Project
 ### Machine Learning 
 * __[Predicting Uber & Lyft Ride Price in Boston, MA](https://github.com/mdwipratama0/Portofolio/blob/main/Predicting%20Uber%20%26%20Lyft%20Ride%20Price%20in%20Boston%2C%20MA/Predicting%20Uber%20%26%20Lyft%20Ride%20Price%20in%20Boston%2C%20MA.ipynb)__ : Utilize python to implement regression to predict trip prices for Uber & Lyft transportation in Boston, MA.
-* __[Classification of Rainfall Event in Australia](http://raremon.pythonanywhere.com/predict)__ : Utilize Python to develop supervised machine learning techniques to classify Rainfall Event data in Australia, to predict the occurrence of rain.
+* __[Classification of Rainfall Event in Australia]( https://lnkd.in/gpqpEuMA)__ : Utilize Python to develop supervised machine learning techniques to classify Rainfall Event data in Australia, to predict the occurrence of rain.
 * __[Heart Failure Prediction](https://github.com/mdwipratama0/Portofolio/blob/main/Heart%20Failure%20Prediction/Heart%20Failure%20Prediction.ipynb)__ : Utilize Python to develop supervised machine learning clasify techniques with ensemble to predict people with heart failure.
 * __[Credit Card Clustering for Marketing Strategy](https://github.com/mdwipratama0/Portofolio/blob/main/Credit%20Card%20Clustering%20for%20Marketing%20Strategy/Credit%20Card%20Clustering%20for%20Marketing%20Strategy.ipynb)__ : Utilize Python to develop unsupervised machine learning techniques to clustering with K-Means to credit card data for marketing strategy.
 ---
