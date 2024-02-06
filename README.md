@@ -21,6 +21,10 @@ University & Department : Lampung of University - Mathematics
 * __[International Immigration Flows from and to Canada](https://nbviewer.org/github/mdwipratama0/Portofolio/blob/main/International%20Immigration%20Flows%20from%20and%20to%20Canada/International%20Migration%20Flows%20from%20and%20to%20Canada.ipynb)__ : Utilize python to perform analysis and visualization on immigration flows data that occurred in Canada.
 ---
 ### Certificates
+* __[TensorFlow: Data and Deployment Specialization](https://coursera.org/share/f24ec2f5aa9e393299ec4079c9a93bb2)__
+* __[DeepLearning.AI Tensorflow Developer Professional Certificate](https://coursera.org/share/15b1504fb9c01b85001eb64e3e9372b4)__
+* __[Machine Learning Specialization](https://coursera.org/share/d5c02ac6c3001dccd7a6a38b2a4e818b)__
+* __[Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/T2623LJQVE95)__
 * __[Google Business Intelligence Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/8QG3VTBSJ8KK)__
 * __[Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/Z9VJHS5N9FBJ)__
 * __[Alibaba Cloud - Machine Learning Specialty](https://drive.google.com/file/d/1-Qka-K7SDa6Uj-7qVyH83hbKZ7v09lRR/view)__
