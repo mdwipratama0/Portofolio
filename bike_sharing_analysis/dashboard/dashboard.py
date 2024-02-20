@@ -3,8 +3,8 @@ import matplotlib.pyplot as plt
 import streamlit as st
 
 
-days_df = pd.read_csv('../data/day.csv')
-hours_df = pd.read_csv('../data/hour.csv')
+days_df = pd.read_csv('./data/day.csv')
+hours_df = pd.read_csv('./data/hour.csv')
 
 st.title('Dashboard Bike Sharing :bike:')
 
