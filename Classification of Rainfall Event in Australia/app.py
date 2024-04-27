@@ -6,7 +6,7 @@ import numpy as np
 app = Flask(__name__)
 
 # Load the pickled KNN model
-model = pickle.load(open("/home/raremon/mysite/knn.pkl","rb"))
+model = pickle.load(open("/home/mdpraz2/mysite/knn.pkl","rb"))
 
 @app.route("/")
 def home():
