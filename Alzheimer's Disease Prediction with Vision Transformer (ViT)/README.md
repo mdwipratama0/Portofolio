@@ -1,7 +1,7 @@
 # Alzheimer's Disease Prediction with Vision Transformer
 -----
 
-<p align="center"> <img src="https://i.ibb.co/WBh1Skp/alzheimer.png" width="200px"></p> 
+<p align="center"><img src="https://i.ibb.co/b6byYpw/alzheimer2.png" alt="alzheimer2" width="1000px"></p> 
 
 Alzheimer's is a neurodegenerative disorder in which the volume of the brain's hippocampus and cerebral cortex shrinks, causing dementia conditions such as decreased ability to solve problems, decreased memory, and difficulty speaking in a person. There are several factors that can increase a person's risk of developing this disease such as lack of physical activity, smoking, obesity, diabetes, malnutrition, brain injury and age.
 
