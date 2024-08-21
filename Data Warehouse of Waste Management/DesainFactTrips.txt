@@ -1,7 +1,0 @@
-FactTrips
-- tripid : INT (PK)
-- dateid : INT (FK)
-- stationid : INT (FK)
-- truckid : INT (FK)
-- wastecollected : NUMERIC(5,2)
-

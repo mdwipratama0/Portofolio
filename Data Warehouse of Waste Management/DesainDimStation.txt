@@ -1,4 +1,0 @@
-DimStation
-- stationid : INT (PK)
-- city : VARCHAR(20)
-

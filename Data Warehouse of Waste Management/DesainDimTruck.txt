@@ -1,4 +1,0 @@
-DimTruck
-- truckid : INT (PK)
-- truck_type : VARCHAR(20)
-
