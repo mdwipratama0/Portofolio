@@ -1,0 +1,5 @@
+CREATE TABLE DimStation(
+    stationid INTEGER PRIMARY KEY NOT NULL,
+    city VARCHAR(20) NOT NULL
+);
+
